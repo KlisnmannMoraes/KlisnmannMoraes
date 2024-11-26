@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Klysman Moraes, tenho 28 anos e sou natural do Maranhão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou um entusiasta da tecnologia e compartilho meu conhecimento e interajo sobre conteúdos voltados à área através do meu perfil no Instagram "[@klysman.dev](https://www.instagram.com/klysman.xz/)", e também estou no Linkedin "[linkedin/klysman-moreaes](https://www.linkedin.com/in/klisnmann-moraes-967b502a9/)".
+Me chamo Klisnmann Moraes, tenho 28 anos e sou natural do Maranhão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou um entusiasta da tecnologia e compartilho meu conhecimento e interajo sobre conteúdos voltados à área através do meu perfil no Instagram "[@klysman.dev](https://www.instagram.com/klysman.xz/)", e também estou no Linkedin "[linkedin/klysman-moreaes](https://www.linkedin.com/in/klisnmann-moraes-967b502a9/)".
 
 ---
 
