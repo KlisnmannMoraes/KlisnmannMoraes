@@ -94,11 +94,11 @@ Me chamo Klisnmann Moraes, tenho 28 anos e sou natural do Maranhão. Atualmente,
 
 ### 📊 Estatísticas
 
-<p style="width: 100vw;">
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KlisnmannMoraes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -106,7 +106,7 @@ Me chamo Klisnmann Moraes, tenho 28 anos e sou natural do Maranhão. Atualmente,
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlisnmannMoraes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
