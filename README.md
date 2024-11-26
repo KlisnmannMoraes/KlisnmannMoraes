@@ -94,7 +94,7 @@ Me chamo Klisnmann Moraes, tenho 28 anos e sou natural do Maranhão. Atualmente,
 
 ### 📊 Estatísticas
 
-<p>
+<p style="width: 100vw;">
   <img 
     align="left" 
     alt="GitHub Stats" 
